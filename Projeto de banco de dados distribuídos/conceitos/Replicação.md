@@ -1,0 +1,2 @@
+É caracterizada por uma tabela global “copiada integralmente” para um banco de dados local.
+Na replicação, ocorre um aumento da confiabilidade e da disponibilidade, mas apresenta o problema de como propagar as atualizações ocorridas em um dos sites para os outros e exige mais memória secundaria local.

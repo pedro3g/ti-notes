@@ -1,0 +1,2 @@
+É quando uma tabela do esquema global é mapeada para duas ou mais tabelas no esquema local que não são idênticas à tabela global.
+Na fragmentação, o banco não fica limitado à memória secundária do servidor e, em comparação com uma solução centralizada, aumenta a confiabilidade e eficiência se a maioria das consultas acessa apenas dados locais.

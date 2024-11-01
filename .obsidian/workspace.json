@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Projeto de banco de dados distribuídos/conceitos/Bottom-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Bottom-up"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Projeto de banco de dados distribuídos/conceitos/Bottom-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Bottom-up"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Projeto de banco de dados distribuídos/conceitos/Bottom-up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Bottom-up"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Projeto de banco de dados distribuídos/conceitos/Bottom-up.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Bottom-up"
             }
           }
         ]
@@ -180,6 +180,19 @@
   },
   "active": "43c2197615efe45b",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Projeto de banco de dados distribuídos/conceitos/Fragmentação.md",
+    "Projeto de banco de dados distribuídos/conceitos/Replicação.md",
+    "Projeto de banco de dados distribuídos/conceitos/Bottom-up.md",
+    "Welcome.md",
+    "Projeto de banco de dados distribuídos/conceitos/Top-down.md",
+    "Projeto de banco de dados distribuídos/conceitos",
+    "Projeto de banco de dados distribuídos/esquemas/Esquema conceitual.md",
+    "Projeto de banco de dados distribuídos/esquemas/bytea.md",
+    "Projeto de banco de dados distribuídos/esquemas/Esquema externo.md",
+    "Projeto de banco de dados distribuídos/fragmentos/Fragmentação Horizontal.md",
+    "Projeto de banco de dados distribuídos/esquemas/Esquema interno.md",
+    "Projeto de banco de dados distribuídos/fragmentos",
+    "Projeto de banco de dados distribuídos/esquemas",
+    "Projeto de banco de dados distribuídos"
   ]
 }
